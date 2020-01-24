@@ -1,0 +1,11 @@
+fn="DejaVuSansMono-11"
+nf="#D3D7DF"
+nb="#555753"
+sf="#ffffff"
+sb="#FF5D73"
+#x="53"
+#y="22"
+x="0"
+y="20"
+
+options="-i -l 10 -fn $fn -nf $nf -nb $nb -sf $sf -sb $sb -x $x -y $y"
