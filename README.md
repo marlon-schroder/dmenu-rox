@@ -1,2 +1,2 @@
 # dmenu-rox
-Script for dmenu with support for window view, ssh, drun, google and youtube search, files and directories.
+Script for dmenu with support for tiling view, ssh client menu, drun, google and youtube search, files and directories.
